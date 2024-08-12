@@ -1,8 +1,13 @@
 # React-Todo-App-1
 
-React TODO App - Chapter 11 - Master Spring Boot 3 &amp; Spring Framework 6 with Java [UDEMY]
+React TODO App 1 - Chapter 11 - Master Spring Boot 3 &amp; Spring Framework 6 with Java [UDEMY]
 
-# Getting Started with Create React App
+## Default Hardcoded Credentails
+
+- Username: user
+- Password: pass
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
